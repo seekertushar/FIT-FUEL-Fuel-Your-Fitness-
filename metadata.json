@@ -1,0 +1,6 @@
+{
+  "name": "FIT FUEL — Indian Diet & Fitness Management",
+  "description": "Fuel Your Fitness. Track Your Progress. Transform Your Lifestyle. Complete Indian diet, workout, BMI, UPI membership, and trainer management platform.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
